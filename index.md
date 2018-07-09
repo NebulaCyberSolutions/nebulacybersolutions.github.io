@@ -27,4 +27,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Technology? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](hello@nebulacyber.com)
+Having trouble with Technology? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](contact.html)
