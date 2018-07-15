@@ -3,6 +3,16 @@
 background-image:url("../img/nebula.jpg");
     background-attachment:fixed;
 }
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
 .header-logo{
     max-height:2em;
     vertical-align: text-middle;
