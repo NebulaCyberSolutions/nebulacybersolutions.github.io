@@ -6,7 +6,10 @@ background-image:url("../img/nebula.jpg");
 .thumbnail {
     position: relative;
 }
-
+.carousel-item h1 {
+  	margin: 0;
+    color: white;
+}
 .caption {
     position: absolute;
     top: 45%;
