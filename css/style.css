@@ -6,7 +6,6 @@ background-image:url("../img/nebula.jpg");
 .thumbnail {
     position: relative;
 }
-
 .caption {
     position: absolute;
     top: 45%;
