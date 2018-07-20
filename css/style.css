@@ -1,7 +1,8 @@
 .bg-primary {
-    background:none;
-background-image:url("../img/nebula.jpg");
-    background-attachment:fixed;
+    background-image:url("../img/Heart_and_Soul_nebulae_for_contract-big.jpg");
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size:cover
 }
 .thumbnail {
     position: relative;
@@ -44,7 +45,7 @@ body{
 #top-row{
   background-color:#18191b;
   margin:0%;
-  padding-top:3%;
+  padding-top:1%;
   color:#ffffcc;
 }
 .row{
@@ -58,7 +59,7 @@ body{
 }
 
 .container-fluid {
-  background-color:#18191b;
+   background-color:#18191b;
    color:#ffffcc;
    padding:7%;
    padding-top:0%;
@@ -66,7 +67,7 @@ body{
  }
 
 
-#footer .btn{
+.btn{
   margin:2%;
   color:#ffffcc;
   background-color:#004d00;
