@@ -25,7 +25,7 @@
 
 .contact-back{
     background-color:#18191b;
-    background-image: linear-gradient(to bottom, #18191b, #18191b, #007bff, #18191b, #18191b );    
+    background-image: linear-gradient(to bottom, #000000, #18191b, #007bff, #18191b, #000000 );    
 }
 
 .img-fluid{
