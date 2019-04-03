@@ -31,11 +31,11 @@
     font-weight:bold;
 }
 .nav-link:hover{
-    color:#004d00;
+    color:#32cd32;
 }
 
 .navbar-toggler.navbar-toggler {
-  border-color: #004d00;
+  border-color: #32cd32;
   border-width: medium;
 }
 .navbar-toggler .navbar-toggler-icon {
@@ -80,12 +80,12 @@ body{
 .btn{
   margin:2%;
   color:#ffffff;
-  background-color:#004d00;
-  border-color:#004d00;
+  background-color:#32cd32;
+  border-color:#32cd32;
 }
 #email{
-  color:#004d00;
+  color:#32cd32;
 }
 #CC{
-  color:#004d00;
+  color:#32cd32;
 }
