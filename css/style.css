@@ -36,11 +36,11 @@
     font-weight:bold;
 }
 .nav-link:hover{
-    color:#004d00;
+    color:#32cd32;
 }
 
 .navbar-toggler.navbar-toggler {
-  border-color: #004d00;
+  border-color: #32cd32;
   border-width: medium;
 }
 .navbar-toggler .navbar-toggler-icon {
@@ -54,17 +54,17 @@ hr{
 }
 
 body{
-  background-color:#18191b;
+  background-color:#000000;
 }
 
 #top-row{
-  background-color:#18191b;
+  background-color:#000000;
   margin:0%;
   padding-top:1%;
   color:#ffffff;
 }
 .row{
-  background-color:#18191b;
+  background-color:#000000;
   margin:0%;
   color:#ffffff;
 }
@@ -74,7 +74,7 @@ body{
 }
 
 .container-fluid {
-   background-color:#18191b;
+   background-color:#000000;
    color:#ffffff;
    padding:7%;
    padding-top:0%;
@@ -85,12 +85,12 @@ body{
 .btn{
   margin:2%;
   color:#ffffff;
-  background-color:#004d00;
-  border-color:#004d00;
+  background-color:#32cd32;
+  border-color:#32cd32;
 }
 #email{
-  color:#004d00;
+  color:#32cd32;
 }
 #CC{
-  color:#004d00;
+  color:#32cd32;
 }
