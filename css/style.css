@@ -16,9 +16,9 @@
 .page-eye-grabber{
     background-color:#18191b;
     background-image: linear-gradient(to right, #18191b, #18191b, #85396f, #18191b, #18191b );
-  
+    
     #background-image: linear-gradient(to right, #18191b,#18191b, #85396f,#18191b, #18191b, transparent 400px);
-
+    
     #background-image: radial-gradient(at center, #18191b,#18191b, #85396f,#18191b, #18191b, transparent 100px),
                       linear-gradient(to right, #18191b,#18191b, #85396f,#18191b, #18191b, transparent 100px);
 }
