@@ -46,12 +46,12 @@ body{
   background-color:#18191b;
   margin:0%;
   padding-top:1%;
-  color:#ffffcc;
+  color:#ffffff;
 }
 .row{
   background-color:#18191b;
   margin:0%;
-  color:#ffffcc;
+  color:#ffffff;
 }
 .row.h1{
   margin:0%;
@@ -60,7 +60,7 @@ body{
 
 .container-fluid {
    background-color:#18191b;
-   color:#ffffcc;
+   color:#ffffff;
    padding:7%;
    padding-top:0%;
    padding-bottom:0%
@@ -69,7 +69,7 @@ body{
 
 .btn{
   margin:2%;
-  color:#ffffcc;
+  color:#ffffff;
   background-color:#004d00;
   border-color:#004d00;
 }
