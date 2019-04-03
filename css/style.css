@@ -23,6 +23,11 @@
                       linear-gradient(to right, #18191b,#18191b, #85396f,#18191b, #18191b, transparent 100px);
 }
 
+.contact-back{
+    background-color:#18191b;
+    background-image: linear-gradient(to bottom, #18191b, #18191b, #007bff, #18191b, #18191b );    
+}
+
 .img-fluid{
     max-width:10vw;
 }
