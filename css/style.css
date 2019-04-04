@@ -89,13 +89,12 @@ body{
   border-color:#26c485;
 }
 #email{
-  color: #26c485;
+  color: #ffffff;
   font-size:larger;
 }
 
 .email:link{
-    # the color of the email
-    color: #32cd32;
+    color: #26c485;
 }
 
 #CC{
