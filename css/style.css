@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.dark-mode{
+	background:#1A1A19;
+}
+h1{
+font-family: 'Raleway', sans-serif;
+}
 .bg-primary {
     /*background-image:url("../img/Heart_and_Soul_nebulae_for_contract-big.jpg");*/
     background-repeat:no-repeat;
@@ -59,14 +69,15 @@ body{
 
 #top-row{
   background-color:#131312;
-  margin:0%;
+  margin:0 auto;
   padding-top:1%;
   color:#ffffff;
 }
 .row{
   background-color:#131312;
-  margin:0%;
+  margin:0 auto;
   color:#ffffff;
+  max-width:1200px;
 }
 .row.h1{
   margin:0%;
@@ -96,7 +107,18 @@ body{
 .email:link{
     color: #26c485;
 }
+.btn-uniform-med {
+  width: 12rem; 
+}
+.lead{
+  max-width:700px;
+  margin:0 auto;
+}
+.big-title{
+  font-family: 'Raleway', sans-serif;
+}
 
 #CC{
   color:#26c485;
 }
+
